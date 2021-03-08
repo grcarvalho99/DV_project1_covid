@@ -1,6 +1,9 @@
 Data Visualization 2021 – Group Project 1
+
 Topic: Beyond COVID-19
+
 Team: 3 to 4 members
+
 Delivery date: March, 22nd 2021 by the end of theoretical class.
 Delivery form (Both are mandatory): A printed poster (A0 size) to be placed on the wall of the
 school. And a digital version of the poster in PDF submitted in moodle.
